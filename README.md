@@ -21,7 +21,7 @@ Timeboxing is a frontend application designed to help users prioritize their tas
 
 You can find more details about its architecture, roadmap, and goals, along with the source code, in the project repository (_Coming soon_).
 
-### XYOM - Online Geometric Morphometrics Tools
+### XYOM - Online Morphometrics
 
 I’ve also worked on international voluntary projects in collaboration with universities and scientific institutions around the world. This effort led to the creation of [XYOM](https://xyom.io), an initiative I co-founded and continue to maintain in production and also co-author a [scientific article](https://pubmed.ncbi.nlm.nih.gov/30794886/).
 
