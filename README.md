@@ -1,24 +1,42 @@
 # 💫 About Me:
 
-I’m a fullstack developer with 9+ years of experience. My main backend stack has been Node.js/Express/MongoDB, while on the frontend, I’ve worked extensively with React, though I also used Angular for a few years.<br><br>One of my primary goals is to transition into full-time Rust development and focus on projects that leverage **Rust/React** stacks.
+I’m a fullstack developer with 9+ years of experience. My main backend stack has been Node.js/Express/MongoDB, while on the frontend, I’ve worked extensively with React, though I also used Angular for a few years.  
+One of my primary goals is to transition into full-time Rust development and focus on projects that leverage **Rust/React** stacks.
 
 ## What Am I Currently Working On?
 
 ### Rust CLI - A Simple Password Manager
 
-This is a command-line tool that allows users to securely store their passwords locally using AES-256 encryption, protected by a master password. Future steps include synchronizing encrypted files with cloud storage. Ultimately, I plan to build a minimalistic but secure web server, enabling users to access their credentials from anywhere on any device.<br><br>
+This is a command-line tool that allows users to securely store their passwords locally using AES-256 encryption, protected by a master password. Future steps include synchronizing encrypted files with cloud storage. Ultimately, I plan to build a minimalistic but secure web server, enabling users to access their credentials from anywhere on any device. You can more find more details in this repository (_Coming soon_).
 
 ### Rust E-commerce REST API
 
-The goal of this project is to create a boilerplate REST API for e-commerce applications. It will support SQL databases like MySQL or PostgreSQL and NoSQL databases like MongoDB or AWS DynamoDB.<br><br>
+The goal of this project is to create a boilerplate REST API for e-commerce applications. It will support SQL databases like PostgreSQL and NoSQL databases like MongoDB or AWS DynamoDB. You can more find more details in this repository (_Coming soon_).
 
 ### React Timeboxing App
 
-Timeboxing is a frontend application designed to help users prioritize their tasks before organizing them into a daily schedule.<br><br>- The app is a work in progress and will initially be a Progressive Web App (PWA) that stores user data in the browser cache, eliminating the need for a backend.<br><br>You can find more details about its architecture, roadmap, and goals, along with the source code, in the project repository.<br><br>
+Timeboxing is a frontend application designed to help users prioritize their tasks before organizing them into a daily schedule.
 
-### XYOM - Online Geometric Morphometrics tools
+- The app is a work in progress and will initially be a Progressive Web App (PWA) that stores user data in the browser cache, eliminating the need for a backend.
 
-I’ve also worked on international voluntary projects in collaboration with universities and scientific institutions around the world. This effort led to the creation of [XYOM](https://xyom.io), an initiative I co-founded and continue to maintain in production.<br><br>Our main sponsor is the IRD (Institute of Research for Development), and we collaborate with universities in Argentina, Colombia, Thailand, France, and Côte d’Ivoire. These institutions have contributed data and feedback to improve the tools and user experience of the application.<br><br>[XYOM](https://xyom.io) is a web application providing free, comprehensive tools for research in the scientific field of **geometric morphometrics**. It offers:<br><br>- A user-friendly interface for 2D image digitization and landmark capture.<br>- A wide range of multivariate statistical analyses for tasks like characterization, identification, and complementary analyses.<br><br>I focus primarily on the technical aspects of XYOM. The stack includes Node.js and React, though the project is transitioning to Rust. More details about this transition, along with the technical architecture, can be found in the repository.<br><br>The scientific part of XYOM is led by Dr. Jean-Pierre Dujardin. You can learn more about his work [here](https://mome-clic.com).<br><br>Lastly, XYOM will gradually become open-source as we complete its transition from Node.js to Rust.<br><br>
+You can find more details about its architecture, roadmap, and goals, along with the source code, in the project repository (_Coming soon_).
+
+### XYOM - Online Geometric Morphometrics Tools
+
+I’ve also worked on international voluntary projects in collaboration with universities and scientific institutions around the world. This effort led to the creation of [XYOM](https://xyom.io), an initiative I co-founded and continue to maintain in production and also co-author a [scientific article](https://pubmed.ncbi.nlm.nih.gov/30794886/).
+
+Our main sponsor is the [IRD (Research Institute for Development)](https://en.ird.fr/), and we collaborate with universities in Argentina, Colombia, Thailand, France, and Côte d’Ivoire. These institutions have contributed data and feedback to improve the tools and user experience of the application.
+
+[XYOM](https://xyom.io) is a web application providing free, comprehensive tools for research in the scientific field of **geometric morphometrics**. It offers:
+
+- A user-friendly interface for 2D image digitization and landmark capture.
+- A wide range of multivariate statistical analyses for tasks like characterization, identification, and complementary analyses.
+
+I focus primarily on the technical aspects of XYOM. The stack includes Node.js and React, uses Terraform for CI/CD pipelines and it is hosted in AWS. Also, the project is transitioning to Rust. More details about this transition, along with the technical architecture, can be found in this repository (_Coming soon_).
+
+The scientific part of XYOM is led by Dr. Jean-Pierre Dujardin. You can learn more about his work [here](http://xyom-clic.eu/).
+
+Lastly, XYOM will gradually become open-source as we complete its transition from Node.js to Rust.
 
 # 💻 Tech Stack:
 
@@ -43,4 +61,3 @@ I’ve also worked on international voluntary projects in collaboration with uni
 [![](https://visitcount.itsvg.in/api?id=dujas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
