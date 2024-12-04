@@ -23,7 +23,7 @@ You can find more details about its architecture, roadmap, and goals, along with
 
 ### XYOM - Online Morphometrics
 
-I’ve also worked on international voluntary projects in collaboration with universities and scientific institutions around the world. This effort led to the creation of [XYOM](https://xyom.io), an initiative I co-founded and continue to maintain in production and also co-author a [scientific article](https://pubmed.ncbi.nlm.nih.gov/30794886/).
+I am also involved in an international voluntary project in collaboration with universities and scientific institutions worldwide. This initiative led to the creation of [XYOM](https://xyom.io), a platform I co-founded and developed from scratch, continue to maintain in production. [More info in this paper](https://pubmed.ncbi.nlm.nih.gov/30794886/).
 
 Our main sponsor is the [IRD (Research Institute for Development)](https://en.ird.fr/), and we collaborate with universities in Argentina, Colombia, Thailand, France, and Côte d’Ivoire. These institutions have contributed data and feedback to improve the tools and user experience of the application.
 
@@ -32,7 +32,7 @@ Our main sponsor is the [IRD (Research Institute for Development)](https://en.ir
 - A user-friendly interface for 2D image digitization and landmark capture.
 - A wide range of multivariate statistical analyses for tasks like characterization, identification, and complementary analyses.
 
-I focus primarily on the technical aspects of XYOM. The stack includes Node.js and React, uses Terraform for CI/CD pipelines and it is hosted in AWS. Also, the project is transitioning to Rust. More details about this transition, along with the technical architecture, can be found in this repository (_Coming soon_).
+I focus primarily on the technical aspects of XYOM. The stack includes Node.js and React, uses Terraform and AWS for its cloud resources and CI/CD pipelines. Also, the project is transitioning to Rust. More details about this transition, along with the technical architecture, can be found in [here](projects/xyom/index.md).
 
 The scientific part of XYOM is led by Dr. Jean-Pierre Dujardin. You can learn more about his work [here](http://xyom-clic.eu/).
 
