@@ -4,6 +4,8 @@
 
 - The geometric morphometrics tools can be used in a wide range of fields, though many of its users come from an entomological background.
 
+- XYOM currently offers its UI in four different languages: English, French, Spanish, and Thai, although the analysis reports are available only in English.
+
 ## Current Stack
 
 - TypeScript
