@@ -36,7 +36,7 @@ I focus primarily on the technical aspects of XYOM. The stack includes Node.js a
 
 The scientific part of XYOM is led by Dr. Jean-Pierre Dujardin. You can learn more about his work [here](http://xyom-clic.eu/).
 
-Lastly, XYOM will gradually become open-source as we complete its transition from Node.js to Rust.
+Lastly, XYOM will gradually become open-source as we complete its transition from Node.js to Rust. You can find some information [here](projects/xyom/index.md)
 
 # 💻 Tech Stack:
 
