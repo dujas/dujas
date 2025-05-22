@@ -62,7 +62,7 @@ I am also expanding my skills in Rust — I have a solid foundation and am activ
 
 <hr>
 
-<h2 align="center"> 💻 Tech Skills</h2>
+<h2 align="center">💻 Tech Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nodejs%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -118,7 +118,7 @@ I am also expanding my skills in Rust — I have a solid foundation and am activ
 
 <hr>
 
-<h2 align="center"> 🌱 What am I Learning Right Now? </h2>
+<h2 align="center">🌱 What am I Learning Right Now? </h2>
 <ul align="left">
   <samp>
     <li>On one hand, I’m learning Rust. I have a basic foundation, but I know I need more practice, especially as I face challenges building a robust API for <a href="https://qr2app.com" target="_blank">QR2App</a>.</li>
@@ -128,20 +128,16 @@ I am also expanding my skills in Rust — I have a solid foundation and am activ
 
 <hr>
 
-<h2 align="center"> 🎓 Education </h2>
+<h2 align="center">🎓 Education </h2>
 <ul align="left">
   <samp>
     <li>2016 | Master of Science in Computer Software Engineering | ETNA - Paris</li>
   </samp>
 </ul>
 <h2  align="center">📫 Contact me</h2>
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 4rem;">
-  <div>
+<div align="center">
   <a target="_blank"href="https://www.linkedin.com/in/shipdujardin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </div>
-  <div>
   <a href="mailto:sebastiendujardin2020@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </div>
 </div>
 
 <hr>
