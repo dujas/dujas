@@ -16,7 +16,7 @@
 <p align="center">
   <samp>
     I am passionate about problem solving and thrive when collaborating with others to find innovative solutions to complex challenges. My primary tech stack includes React, TypeScript, Node.js.
-I am also expanding my skills in Rust — I have a solid foundation and am actively progressing along the learning curve.
+    I'm also expanding my skills in Rust, building on a solid foundation as I continue to progress along the learning curve.
   </samp>
 </p>
 
