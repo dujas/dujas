@@ -21,7 +21,7 @@
   <tr>
     <td><strong>Ecommerce</strong></td>
     <td>QR code–based ordering system for hospitality (bars, hotels, restaurants)</td>
-    <td><a href="https://qr2app.com" target="_blank">qr2app</a></td>
+    <td><a href="https://qr2app.com" target="_blank">QR2App</a></td>
   </tr>
   <tr>
     <td><strong>Energy / Oil & Gas</strong></td>
@@ -66,9 +66,19 @@
   <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <table align="center">
+  <thead>
+    <th>
+            <strong>Frontend:</strong>
+    </th>
+    <th>      
+      <strong>Backend:</strong>
+    </th>
+    <th>      
+      <strong>DevOps:</strong>
+    </th>
+  </thead>
   <tr>
     <td valign="top">
-      <strong>Frontend:</strong>
       <ul>
         <li>JS, HTML, SASS - 7+ years</li>
         <li>React - 6+ years</li>
@@ -80,7 +90,6 @@
       </ul>
     </td>
     <td valign="top">
-      <strong>Backend:</strong>
       <ul>
         <li>Docker - 5+ years</li>
         <li>Nodejs - 5+ years</li>
@@ -92,7 +101,6 @@
       </ul>
     </td>
     <td valign="top">
-      <strong>DevOps:</strong>
       <ul>
         <li>Terraform - 2+ years</li>
         <li>GCP - 2+ years</li>
@@ -107,8 +115,8 @@
 <h2 align="center"> 🌱 What I am Learning Right Now? </h2>
 <ul align="left">
   <samp>
-  <li>On one side I am learning Rust. I have some foundation but I am still aware that I need more practice and I am finding challenges building a robust API for <a href="https://qr2app.com" target="_blank">qr2app</a>.</li>
-  <li>I am also exploring LLMs with Python. Even though I know little about Python it is a very low learning curve coding language that allows me to focus more in the understanding of LLMs without struggling too much on the coding part. My first project is custom RAG chatbot</li>
+    <li>On one hand, I’m learning Rust. I have a basic foundation, but I know I need more practice, especially as I face challenges building a robust API for <a href="https://qr2app.com" target="_blank">QR2App</a>.</li>
+    <li>On the other hand, I’m exploring LLMs using Python. Although I have limited experience with Python, its low learning curve allows me to focus more on understanding LLMs without getting bogged down by the coding itself. My first project is a custom RAG chatbot.</li>
   </samp>
 </ul>
 
@@ -121,15 +129,51 @@
   </samp>
 </ul>
 <h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <li>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 4rem;">
+  <div>
   <a target="_blank"href="https://www.linkedin.com/in/shipdujardin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </li>
-  <li>
+  </div>
+  <div>
   <a href="mailto:sebastiendujardin2020@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </li>
-  <li>(sebastiendujardin2020[a]gmail.com)</li>
-</p>
+  </div>
+</div>
+
+<hr>
+
+<h2 align="center">🚀 Coding Challenge Projects</h2>
+<table align="center">
+  <thead>
+    <th><strong>Name</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Technologies used</strong></th>
+    <th><strong>GitHub link</strong></th>
+    <!-- <th><strong>Live URL</strong></th> -->
+  </thead>
+  <tr>
+    <td valign="top">Resume builder</td>
+    <td valign="top">A simple POC for managing resume templates and candidate resumes. Customize the template (font size, color, margin, watermark,…) and download the resume as a PDF</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td><a href="https://github.com/dujas/challenge-resume-builder" target="_blank">GitHub</a></td>
+  </tr>
+  <tr>
+    <td valign="top">Preview, upload, download Lottie animations.</td>
+    <td valign="top">A minimalist web application that enables users to search and preview, upload and download Lottie Animations.</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-NODE-green?style=for-the-badge&logo=node.js" />
+      <img src="https://img.shields.io/badge/express-blue?logo=express&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MikroORM-ORM-red?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/GraphQL-%231b1b1b?style=for-the-badge&logo=graphql&logoColor=%23f6009c&labelColor=white" />
+    </td>
+    <td valign="top">
+      <a href="https://github.com/dujas/LottieFiles-deliverables-animations" target="_blank">GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ## What Am I Currently Working On?
 
