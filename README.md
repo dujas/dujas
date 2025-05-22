@@ -7,7 +7,10 @@
 - [🌱 What am I Learning Right Now?](#-what-am-i-learning-right-now)
 - [🎓 Education](#-education)
 - [📫 Contact me](#-contact-me)
-- [🚀 Frontend Coding Challenge Projects](#-frontend-coding-challenge-projects)
+- [🚀 Coding Challenge Projects](#-coding-challenge-projects)
+- [🌐 Live Projects](#-live-projects)
+
+<hr>
 
 <h2 align="center">👨 About Me</h2>
 <p align="center">
@@ -58,6 +61,7 @@ I am also expanding my skills in Rust — I have a solid foundation and am activ
 </p>
 
 <hr>
+
 <h2 align="center"> 💻 Tech Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
