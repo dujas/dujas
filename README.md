@@ -4,9 +4,9 @@
 
 - [👨 About me](#-about-me)
 - [💻 Tech Skills](#-tech-skills)
-- [🌱 What am I Learning Right Now?](#-what-i-am-learning-right-now)
+- [🌱 What am I Learning Right Now?](#-what-am-i-learning-right-now)
 - [🎓 Education](#-education)
-- [📫 Reach me on](#-reach-me-on)
+- [📫 Contact me](#-contact-me)
 - [🚀 Frontend Coding Challenge Projects](#-frontend-coding-challenge-projects)
 
 <h2 align="center">👨 About Me</h2>
@@ -58,7 +58,7 @@ I am also expanding my skills in Rust — I have a solid foundation and am activ
 </p>
 
 <hr>
-<h2 align="center"> 🔭 Tech Skills</h2>
+<h2 align="center"> 💻 Tech Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nodejs%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -130,7 +130,7 @@ I am also expanding my skills in Rust — I have a solid foundation and am activ
     <li>2016 | Master of Science in Computer Software Engineering | ETNA - Paris</li>
   </samp>
 </ul>
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="center">📫 Contact me</h2>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 4rem;">
   <div>
   <a target="_blank"href="https://www.linkedin.com/in/shipdujardin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
