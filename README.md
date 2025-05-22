@@ -1,7 +1,135 @@
-# 💫 About Me:
+<h1 align="center"> 👋 Hello, Bonjour, Hola! (100% remote EMEA)</h1>
 
-I’m a fullstack developer with 9+ years of experience. My main backend stack has been Node.js/Express/MongoDB, while on the frontend, I’ve worked extensively with React, though I also used Angular for a few years.  
-One of my primary goals is to transition into full-time Rust development and focus on projects that leverage **Rust/React** stacks.
+## Table of Contents
+
+- [👨 About me](#-about-me)
+- [💻 Tech Skills](#-tech-skills)
+- [🌱 What I am Learning Right Now?](#-what-i-am-learning-right-now)
+- [🎓 Education](#-education)
+- [📫 Reach me on](#-reach-me-on)
+- [🚀 Frontend Coding Challenge Projects](#-frontend-coding-challenge-projects)
+
+<h2 align="center">👨 About Me</h2>
+<p align="center">
+  <samp>
+    I am passionate about problem solving and thrive collaborating with others to find innovative solutions to complex problems. My main main stack has been React/TypeScript/Node.js/Express/MongoDB.
+  </samp>
+</p>
+
+<h3 align="center">🚧 Industries I've Worked On</h3>
+<table align="center">
+  <tr>
+    <td><strong>Ecommerce</strong></td>
+    <td>QR code–based ordering system for hospitality (bars, hotels, restaurants)</td>
+    <td><a href="https://qr2app.com" target="_blank">qr2app</a></td>
+  </tr>
+  <tr>
+    <td><strong>Energy / Oil & Gas</strong></td>
+    <td>Dashboards and visualizations for real-time drilling data</td>
+    <td>Seven Peaks Software</td>
+  </tr>
+  <tr>
+    <td><strong>Scientific Research / Academia</strong></td>
+    <td>Tools for researchers and students, image analysis, collaboration with academics</td>
+    <td>
+      <p><a href="https://xyom.io" target="_blank">XYOM</a> (Geometric Morphometrics tools)</p>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hospitality / Food Service</strong></td>
+    <td>back-office apps for catering operations</td>
+    <td>Chefing (Catering Services)</td>
+  </tr>
+  <tr>
+    <td><strong>Healthcare</strong></td>
+    <td>Smart Chatbot assistant for cancer patients</td>
+    <td>WeFight</td>
+  </tr>
+  <tr>
+    <td><strong>Corporate Services</strong></td>
+    <td>Digital transformation, automation for Accounting and Finance teams</td>
+    <td>Air Liquide</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dujas" alt="Profile views" />
+</p>
+
+<hr>
+<h2 align="center"> 🔭 Tech Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nodejs%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <strong>Frontend:</strong>
+      <ul>
+        <li>JS, HTML, SASS - 7+ years</li>
+        <li>React - 6+ years</li>
+        <li>TypeScript - 5+ years</li>
+        <li>React Native - <1 year</li>
+        <li>Next.js - ~1 year</li>
+        <li>Jest - ~3 years</li>
+        <li>Storybook - 2+ years</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong>Backend:</strong>
+      <ul>
+        <li>Docker - 5+ years</li>
+        <li>Nodejs - 5+ years</li>
+        <li>Rust - ~1 year</li>
+        <li>Docker - 5+ years</li>
+        <li>MongoDB - 5+ years</li>
+        <li>DynamoDB- 1+ years</li>
+        <li>Google Apps Scripts - 2+ years</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong>DevOps:</strong>
+      <ul>
+        <li>Terraform - 2+ years</li>
+        <li>GCP - 2+ years</li>
+        <li>AWS - 2+ years</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h2 align="center"> 🌱 What I am Learning Right Now? </h2>
+<ul align="left">
+  <samp>
+  <li>On one side I am learning Rust. I have some foundation but I am still aware that I need more practice and I am finding challenges building a robust API for <a href="https://qr2app.com" target="_blank">qr2app</a>.</li>
+  <li>I am also exploring LLMs with Python. Even though I know little about Python it is a very low learning curve coding language that allows me to focus more in the understanding of LLMs without struggling too much on the coding part. My first project is custom RAG chatbot</li>
+  </samp>
+</ul>
+
+<hr>
+
+<h2 align="center"> 🎓 Education </h2>
+<ul align="left">
+  <samp>
+    <li>2016 | Master of Science in Computer Software Engineering | ETNA - Paris</li>
+  </samp>
+</ul>
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <li>
+  <a target="_blank"href="https://www.linkedin.com/in/shipdujardin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </li>
+  <li>
+  <a href="mailto:sebastiendujardin2020@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </li>
+  <li>(sebastiendujardin2020[a]gmail.com)</li>
+</p>
 
 ## What Am I Currently Working On?
 
